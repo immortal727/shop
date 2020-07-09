@@ -1,9 +1,11 @@
 {
   "autoload": {
     "psr-4": {
-      "ishop\\": "vendor/ishop/core",
+      "ishop\\": "ishop/core",
       "app\\": "app"
     },
-    "require": {}
+    "require": {
+      "ext-pdo": "*"
+    }
   }
 }

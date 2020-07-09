@@ -9,9 +9,9 @@ define("WWW", ROOT . '/public');
 // пака, которая ведет на котролеры, виды, модели...
 define("APP", ROOT . '/app');
 // ядро приложения
-define("CORE", ROOT . '/vendor/ishop/core');
+define("CORE", ROOT . '/ishop/core');
 // библиотеки
-define("LIBS", ROOT . '/vendor/ishop/core/libs');
+define("LIBS", ROOT . '/ishop/core/libs');
 // кэш
 define("CACHE", ROOT . '/tmp/cache');
 // папка на конфигурационные файлы

@@ -1,4 +1,5 @@
-<? namespace ishop;
+<? 
+namespace ishop;
 class App{
     public static $app;
     public function __construct(){
